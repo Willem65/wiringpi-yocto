@@ -1,0 +1,1 @@
+wiringpi for yocto
